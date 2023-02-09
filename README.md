@@ -1,5 +1,7 @@
 # ITV
 
+![image](https://user-images.githubusercontent.com/111279439/217937395-a03d35c9-7b3f-4872-bb9b-f9be9a4932be.png)
+
 I am presenting my work on the Step Up Career Challenge that was commissioned by ITV and executed in collaboration with Dig Data. The challenge was to determine the best strategies to promote the new original show “A Spy Among Friends” on the new streaming platform ITVX.
 
 In order to accomplish this task, we first gathered information on the customer base viewing habits. This was done by grouping people based on the criteria provided by ITV, and calculating the mean of who watched the show “A Spy Among Friends”. The results were then plotted on a bar graph to visualize the viewing habits of the customers.
