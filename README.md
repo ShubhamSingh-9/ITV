@@ -1,6 +1,6 @@
 # ITV
 
-I am writing this email to present my work on the Step Up Career Challenge that was commissioned by ITV and executed in collaboration with Dig Data. The challenge was to determine the best strategies to promote the new original show “A Spy Among Friends” on the new streaming platform ITVX.
+I am presenting my work on the Step Up Career Challenge that was commissioned by ITV and executed in collaboration with Dig Data. The challenge was to determine the best strategies to promote the new original show “A Spy Among Friends” on the new streaming platform ITVX.
 
 In order to accomplish this task, we first gathered information on the customer base viewing habits. This was done by grouping people based on the criteria provided by ITV, and calculating the mean of who watched the show “A Spy Among Friends”. The results were then plotted on a bar graph to visualize the viewing habits of the customers.
 
@@ -14,3 +14,4 @@ Based on the results of these models, we can conclude that the top 3 genres and 
 This project provided me with the opportunity to gain hands-on experience in real-life data analysis and machine learning. I would like to extend my gratitude to ITV Data team for providing me with the necessary information and resources to complete this task. I also appreciate the support and guidance provided by Dig Data.
 
 I hope that the information presented on this Github page accurately reflects the work that was executed during this project. If there are any errors or omissions, please do let me know, and I will make the necessary adjustments.
+
