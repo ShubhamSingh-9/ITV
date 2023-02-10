@@ -5,8 +5,8 @@
 I am presenting my work on the Step Up Career Challenge that was commissioned by ITV and executed in collaboration with Dig Data. The challenge was to determine the best strategies to promote the new original show “A Spy Among Friends” on the new streaming platform ITVX.
 
 In order to accomplish this task, we first gathered information on the customer base viewing habits. This was done by grouping people based on the criteria provided by ITV, and calculating the mean of who watched the show “A Spy Among Friends”. The results were then plotted on a bar graph to visualize the viewing habits of the customers.
-         ![image](https://user-images.githubusercontent.com/111279439/217967790-05289281-5a55-4e80-a5b6-9d2bb74ccc30.png)
-
+     
+![image](https://user-images.githubusercontent.com/111279439/217967993-86207820-ebca-477d-b4a1-158409c94dd2.png)
 
 In the second task, we used machine learning models to predict who would be most likely to watch the show. We trained three models using different sets of features as inputs:
 
